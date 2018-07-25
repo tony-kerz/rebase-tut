@@ -5,3 +5,5 @@ const dbg = debug('index')
 dbg('hello world')
 
 dbg('yeah world!')
+
+dbg('goodbye world...')
